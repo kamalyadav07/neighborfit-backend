@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Koramangala",
+    "affordability": 25000,
+    "transit": 7,
+    "proximity": 4,
+    "lifestyle": 9,
+    "safety": 6
+  },
+  {
+    "name": "Whitefield",
+    "affordability": 20000,
+    "transit": 5,
+    "proximity": 10,
+    "lifestyle": 6,
+    "safety": 7
+  },
+  {
+    "name": "HSR Layout",
+    "affordability": 18000,
+    "transit": 8,
+    "proximity": 5,
+    "lifestyle": 8,
+    "safety": 8
+  }
+]
